@@ -31,4 +31,5 @@ WHERE Age IS NULL;
 DELETE FROM Students
 WHERE Name = 'Eshan';
 
+SELECT * FROM Students;
 
